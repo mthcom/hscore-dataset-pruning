@@ -1,0 +1,12 @@
+torch
+transformers==4.31.0
+datasets
+torch
+datasets
+evaluate
+google-cloud-vision
+accelerate
+scipy
+scikit-learn
+absl-py
+wrapt
